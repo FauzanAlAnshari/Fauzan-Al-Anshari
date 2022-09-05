@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FauzanAlAnshari
+- 👋 Hi, I’m @Fauzan Al Anshari
 - 👀 I’m interested in front end developer
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
 - 💞️ I’m looking to collaborate on Website project
